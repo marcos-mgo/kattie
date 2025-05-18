@@ -1,8 +1,7 @@
-usuario = 'xxxxx@gmail.com'
-senha = 'xxxxxxxxxxxxxxxxx'
+usuario = 'suportemarcosgarcia@gmail.com'
+senha = 'Frrstgmp2'
 
 good_guys = {
-'Pimentel': {'aliases': ['José Eduardo de Souza Pimentel'], 'pesquisa': ['Piracicaba', 'Recomendação', 'Resolução', 'Aviso'],
-'email': 'email1@email.br'},
-'Ivan': {'aliases': ['Ivan Carneiro Castanheiro'], 'pesquisa': ['Americana', 'Gaema', 'Resolução', 'Aviso'],'email': 'email2@email.br'}
+'Marcos': {'aliases': ['Marcos Garcia de Oliveira'], 'pesquisa': ['CTIC', '6147', '28488931840', '284.889.318-40'],
+'email': 'esuportemarcosgarcia@gmail.com'}
 }

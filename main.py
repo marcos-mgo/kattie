@@ -38,12 +38,12 @@ def envia_email (destinatario, assunto, corpo_email):
     print('e-mail não enviado para '+ destinatario)
 
 # Cria a url de hoje:
-today = date.today().strftime('%d_%m_%Y')
-url_base = 'https://www.mpsp.mp.br/w/do_'
+today = date.today().strftime('%d-%m-%Y')
+url_base = 'https://www.mpsp.mp.br/w/do-'
 url = url_base + today
 
 # Para testes:
-# url = 'https://www.mpsp.mp.br/w/do_22_01_2022'
+url = 'https://www.mpsp.mp.br/w/do-16-05-2025'
 
 # Faz o request
 urllib3.disable_warnings()
